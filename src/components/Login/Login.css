@@ -1,0 +1,17 @@
+.login{
+    text-align: center;
+}
+
+.social button{
+    font-size: 50px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
+.facebook{
+    color: #1D4B98;  
+}
+
+.google{
+    color: #4285F5;
+}
